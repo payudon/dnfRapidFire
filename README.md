@@ -1,1 +1,2 @@
-# dnfRapidFire
+# dnf任意多键连发
+## 用AHK开发，不影响打字
